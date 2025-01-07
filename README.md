@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Lesson Tracking System using PHP<br>I'm looking to collaborate on System and database development<br>I'm looking for help with the Laravel Framework<br>I'm currently learning Network and Database Administration<br>Ask me about Networks and PHP scripts<br>I Enjoy Learning new technological Innovations and IOT 
+I'm currently working on Intrusion Detection System (IDS) using Python <br>I'm looking to collaborate on System and database development<br>I'm looking for help with the Laravel Framework<br>I'm currently learning Network and Database Administration<br>Ask me about Networks and PHP scripts<br>I Enjoy Learning new technological Innovations and IOT 
 
 
 ## 🌐 Socials:
